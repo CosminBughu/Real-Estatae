@@ -1,2 +1,3 @@
 # Real-Estatae
 Small app which should let the user create real-estate properties and then visualize them later...
+This for Git learning purpouses!
